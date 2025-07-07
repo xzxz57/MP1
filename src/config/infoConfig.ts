@@ -3,12 +3,12 @@ export * from './education'
 export * from './career'
 
 // personal info
-export const name = 'Derek Hu'
-export const headline = 'Teacher at Shanghai Soong Ching Ling School.'
+export const name = 'Katelyn Jiang'
+export const headline = 'Student at Harvard Business School'
 export const introduction =
-  "Coucou Les Amis! My name is Derek Hu. I'm from Hubei and an alumnus of BUPT, UChicago, and Tsinghua. I’ve been teaching Computer Science at SCLS since 2020."
-export const email = 'tong.hu@scls-sh.org'
-export const githubUsername = 'derekhut'
+  "Coucou Les Amis! My name is Katelyn. I'm from Shenzhen and an alumnus of Northwestern and Harvard. I’ve been working in tech industry since 2020."
+export const email = 'xinzhej@gmail.com'
+export const githubUsername = 'xzxz0507'
 
 // about page
 export const aboutMeHeadline = 'Who Are You and Why Should I Care?'
